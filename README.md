@@ -1,7 +1,7 @@
 
-# PROJECT 3 - Item - Catalog (Movie Collection App)
+# Movie Collection Application
 
-> A Project in partial requirement of the the course: FULL STACK FOUNDATIONS and AUTHENTICATION / AUTHORIZATION: OAuth
+> A FULL STACK FOUNDATIONS and AUTHENTICATION / AUTHORIZATION: OAuth Project
 
 * [Summary](#summary)
 * [Requirements](#requirements)
